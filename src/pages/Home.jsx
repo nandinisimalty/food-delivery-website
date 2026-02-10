@@ -14,6 +14,10 @@ function Home() {
           </div>
         })}
       </div>
+
+      <div>
+        <Card/>
+      </div>
     </div>
   )
 }
